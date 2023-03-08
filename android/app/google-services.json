@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "116492013512",
+    "project_id": "telia-dba14",
+    "storage_bucket": "telia-dba14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116492013512:android:8732706ad03f099f5d7afd",
+        "android_client_info": {
+          "package_name": "com.wrteam.erestro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116492013512-npq6lnad0s1ccqscoh7u0mo3m77tpinc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHb0betY5NMl4MZ3RqDHZmvAaXigItZkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116492013512-npq6lnad0s1ccqscoh7u0mo3m77tpinc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
